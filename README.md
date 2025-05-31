@@ -1,10 +1,3 @@
-# 👋 Hello there! I'm Athar Hasan
-
-<!-- Trick 1: Hidden in plain sight -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%93%B1;Problem+Solver+%F0%9F%94%A5;Lifelong+Learner+%F0%9F%93%9A)](https://github.com/atharhasan)
-
----
-
 ## 🚀 About Me
 
 ```dart
@@ -19,8 +12,9 @@ class Me extends Developer {
     "StillLearning": true,
   };
 }
+```
 
-🧠 Skills & Tools
+## 🧠 Skills & Tools
 💙 Flutter & Dart (of course!)
 
 🧱 BLoC / Cubit / Provider
@@ -44,19 +38,26 @@ class Me extends Developer {
 
 🧭 Map-based trip planning with real-time driver tracking
 
-📈 GitHub Stats
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharhasan&show_icons=true&theme=tokyonight)
 
-🧁 Language Usage Donut
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharhasan&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=atharhasan&theme=tokyonight&border_radius=10)
 
-📫 Let's Connect
+## 🧁 Language Usage Donut
+![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharhasan&theme=tokyonight)
+
+![Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atharhasan&theme=tokyonight&utcOffset=+3)
+
+## 📫 Let's Connect
 📧 Email: athar.hasan@email.com
 
 💼 LinkedIn: linkedin.com/in/atharhasan
 
 💬 DM me if you’re building something exciting!
 
-⚡ Fun Fact
+## ⚡ Fun Fact
 I debug faster with music on 🎧
 And I still believe flutter pub get solves 80% of the problems 😅
 
