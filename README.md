@@ -1,3 +1,9 @@
+# 👋 Hello there! I'm Athar Hasan
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%93%B1;Problem+Solver+%F0%9F%94%A5;Lifelong+Learner+%F0%9F%93%9A)](https://github.com/atharhasan)
+
+---
+
 ## 🚀 About Me
 
 ```dart
