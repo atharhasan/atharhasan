@@ -57,9 +57,7 @@ class Me extends Developer {
 ![Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atharhasan&theme=tokyonight&utcOffset=+3)
 
 ## 📫 Let's Connect
-📧 Email: athar.hasan@email.com
-
-💼 LinkedIn: linkedin.com/in/atharhasan
+📧 Email: athar_h12@yahoo.com
 
 💬 DM me if you’re building something exciting!
 
