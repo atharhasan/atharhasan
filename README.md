@@ -9,7 +9,7 @@
 ```dart
 class Me extends Developer {
   final String name = "Athar Hasan";
-  final String role = "Flutter Developer";
+  final String role = "Senior Flutter Developer";
   final List<String> passions = ["Clean UI", "Scalable Architecture", "Team Collaboration"];
   final Map<String, dynamic> values = {
     "Curiosity": true,
